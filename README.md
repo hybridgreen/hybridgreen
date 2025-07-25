@@ -29,6 +29,6 @@
 
 
 ### Socials
-<a href="https://www.linkedin.com/in/yayaoye>
+<a href="https://www.linkedin.com/in/yayaoye">
   <img src="img/linkedin.svg" alt="LinkedIn" width="40"/>
 </a>
