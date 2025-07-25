@@ -30,5 +30,5 @@
 
 ### Socials
 <a href="https://www.linkedin.com/in/yayaoye>
-  <img src="iimg/linkedin.svg" alt="LinkedIn" width="40"/>
+  <img src="img/linkedin.svg" alt="LinkedIn" width="40"/>
 </a>
