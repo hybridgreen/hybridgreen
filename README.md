@@ -22,6 +22,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="img/javascript-colored.svg" alt="JavaScript" width="40"/>
 </a>
+<a href="https://www.typescriptlang.org/docs/handbook/project-references.html">
+  <img src="img/test_blockutilities.svg" alt="Typecript" width="40"/>
+</a>
 <a href="https://dev.mysql.com/doc/">
   <img src="img/database-svgrepo-com.svg" alt="MySQL" width="40"/>
 </a>
