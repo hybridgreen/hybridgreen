@@ -28,6 +28,8 @@
   <img src="img/database-svgrepo-com.svg" alt="MySQL" width="40"/>
 </a>
 
+https://github.com/tandpfun/skill-icons#readme
+
 
 ### Socials
 <a href="https://www.linkedin.com/in/yayaoye">
