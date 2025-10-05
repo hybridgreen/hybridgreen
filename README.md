@@ -13,7 +13,7 @@
 [![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css)](https://skillicons.dev)
 
 #### Frameworks & Tools
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,django,git,github,githubactions&perline=3)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,django,git,github,githubactions&perline=6)](https://skillicons.dev)
 
 #### Cloud & Infrastructure
 [![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
