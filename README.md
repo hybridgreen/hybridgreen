@@ -19,11 +19,7 @@
 [![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
 
 #### Other Technologies
-<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170">
-  <img src="img/c-colored.svg" alt="C/C++ Coding" width="40"/>
-</a>
-
-[![Frameworks](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
 
 ### Socials
 <a href="https://www.linkedin.com/in/yayaoye">
