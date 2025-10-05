@@ -23,7 +23,10 @@
   <img src="img/c-colored.svg" alt="C/C++ Coding" width="40"/>
 </a>
 
+[![Frameworks](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
 ### Socials
 <a href="https://www.linkedin.com/in/yayaoye">
   <img src="img/linkedin.svg" alt="LinkedIn" width="40"/>
 </a>
+
