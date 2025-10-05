@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Yasser
 ---
-- 🌍 I'm from London, currently based in Tokyo
+- 🌍 I'm from Benin 🇧🇯 - Previously in London 🇬🇧 now in Tokyo.
 - 🧠 I’m currently learning backend developement with [Boot.Dev](https://www.boot.dev/u/hybridgreen)
 - ✉️ You can reach me at y.yayaoye@gmail.com
 
