@@ -9,7 +9,7 @@
 
 ### 🛠️ Technologies & Tools
 
-#### Languages
+#### Current Languages
 [![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css,)](https://skillicons.dev)
 
 #### Frameworks & Tools
@@ -18,8 +18,6 @@
 
 #### Cloud & Infrastructure
 [![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
-
-
 
 #### Other Technologies
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170">
