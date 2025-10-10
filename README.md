@@ -1,10 +1,11 @@
 ## Hi there 👋 my name is Yasser
 ---
+- 🍃 Thouroughly enjoying building [Trailstory](https://github.com/hybridgreen/Trailstory)
+- 🧠 Working on my backend skills with [Boot.Dev](https://www.boot.dev/u/hybridgreen)
 - 🌍 I'm from Benin 🇧🇯 - Previously in London 🇬🇧 now in Tokyo.
-- 🧠 I’m currently learning backend developement with [Boot.Dev](https://www.boot.dev/u/hybridgreen)
 - ✉️ You can reach me at y.yayaoye@gmail.com
 
-  🤝 Let's collaborate on your projects ! 
+  🤝 Let's collaborate on your projects
 
 
 ### 🛠️ Technologies & Tools
