@@ -14,10 +14,10 @@
 [![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css)](https://skillicons.dev)
 
 #### Frameworks & Tools
-[![Frameworks](https://skillicons.dev/icons?i=react,git,github,githubactions&perline=6)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,fastapi,postgres,git,github,&perline=6)](https://skillicons.dev)
 
 #### Cloud & Infrastructure
-[![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
 
 #### Other Technologies
 [![Frameworks](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
