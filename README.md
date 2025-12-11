@@ -17,7 +17,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=react,fastapi,git,github,&perline=6)](https://skillicons.dev)
 
 #### Cloud & Infrastructure
-[![Tools](https://skillicons.dev/icons?i=aws,docker)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
 
 #### Other Technologies
 [![Frameworks](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
