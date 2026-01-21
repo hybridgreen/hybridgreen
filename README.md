@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Yasser
 ---
 - 🍃 Currently building [Trailstory](https://trailstory.vercel.app/)
-- 🧠 Working on my backend skills with [Boot.Dev](https://www.boot.dev/u/hybridgreen)
+- 🧠 Always learning, always building
 - 🌍 I'm from Benin 🇧🇯 - Based in London
 - ✉️ You can reach me at y.yayaoye@gmail.com
 
