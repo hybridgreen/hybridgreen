@@ -2,7 +2,6 @@
 ---
 - 🍃 Currently building [Trailstory](https://trailstory.vercel.app/)
 - 🧠 Always learning, always building
-- 🌍 I'm from Benin 🇧🇯 - Based in London
 - ✉️ You can reach me at y.yayaoye@gmail.com
 
   🤝 Let's collaborate on your projects
