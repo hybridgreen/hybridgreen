@@ -2,7 +2,7 @@
 I build and deploy Full-stack systems in Python and Typescript.
 
 I've been spending a lot of time building [Dawa](https://github.com/hybridgreen/Dawa) recently.
-I'm looking for a new full time role and to collaborate on your projects, so if you know of anyone that need a Systems Minded Engineer who write in Python and TS reach out!
+I'm looking for a new full time role and to collaborate on your projects, so if you know of anyone that needs a Systems Minded Engineer who writes in Python and TS reach out!
 ✉️ You can reach me at [my email](mailto:y.yayaoye@gmail.com)
 
 ---
