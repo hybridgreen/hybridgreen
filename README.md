@@ -1,22 +1,27 @@
-## Hi there 👋 my name is Yasser
+## Hi there 👋 I'm Yasser
+I build and deploy Full-stack systems in Python and Typescript.
+
+I've been spending a lot of time building [Dawa](https://github.com/hybridgreen/Dawa) recently.
+I'm looking for a new full time role and to collaborate on your projects, so if you know of anyone that need a Systems Minded Engineer who write in Python and TS reach out!
+✉️ You can reach me at [my email](mailto:y.yayaoye@gmail.com)
+
 ---
-- 🍃 Currently building [Trailstory](https://trailstory.vercel.app/)
-- 🧠 Always learning, always building
-- ✉️ You can reach me at y.yayaoye@gmail.com
+#### Books I'm currently reading
+- [Algorithms to Live By](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+- [The Courage to be Disliked](https://www.goodreads.com/book/show/43306206-the-courage-to-be-disliked)
+- [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 
-  🤝 Let's collaborate on your projects
 
+### 🛠️ Technologies & Tools I like & know
 
-### 🛠️ Technologies & Tools
-
-#### Current Languages
+#### Mainly
 [![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css)](https://skillicons.dev)
 
 #### Frameworks & Tools
 [![Frameworks](https://skillicons.dev/icons?i=react,fastapi,git,github,&perline=6)](https://skillicons.dev)
 
-#### Cloud & Infrastructure
-[![Tools](https://skillicons.dev/icons?i=aws,docker,gcp)](https://skillicons.dev)
+#### Cloud & Infra
+[![Tools](https://skillicons.dev/icons?i=aws,docker,gcp,kubernetes)](https://skillicons.dev)
 
 #### Other Technologies
 [![Frameworks](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
