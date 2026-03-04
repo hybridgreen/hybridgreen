@@ -12,7 +12,7 @@ I'm looking for a new full time role and to collaborate on your projects, so if 
 - [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
 
 
-### 🛠️ Technologies & Tools I like & know
+### 🛠️ Technologies & Tools I like
 
 #### Mainly
 [![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css)](https://skillicons.dev)
