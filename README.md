@@ -15,7 +15,7 @@ I'm looking for a new full time role and to collaborate on your projects, so if 
 ### 🛠️ Technologies & Tools I like
 
 #### Mainly
-[![Languages](https://skillicons.dev/icons?i=ts,py,postgres,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,postgres,ts,js,html,css)](https://skillicons.dev)
 
 #### Frameworks & Tools
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,react,git,github,&perline=6)](https://skillicons.dev)
